@@ -1,0 +1,15 @@
+.map {
+    height: 500px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 500px;
+    }
+}
+
+section {
+  padding: 20px 0px;
+}
